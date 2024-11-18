@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @elias115
-- 👀 I’m interested in ... coding
-- 🌱 I’m currently learning ... php, javascript, C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Elias-m-S
+- 👀 I’m interested in ... coding, DIY Projects
+- 🌱 I am currently studying embedded systems
 
 <!---
 elias115/elias115 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
