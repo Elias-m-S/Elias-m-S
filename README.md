@@ -1,8 +1,51 @@
-- 👋 Hi, I’m @Elias-m-S
-- 👀 I’m interested in ... coding, DIY Projects
-- 🌱 I am currently studying embedded systems
+<h1 align="center">Hi 👋, ich bin Elias Sehmsdorf</h1>
+<h3 align="center">Dualer Student für Embedded Systems bei RAFI GmbH</h3>
 
-<!---
-elias115/elias115 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Passion+for+Embedded+Systems+%26+Low-Level+Code;C%2FC%2B%2B+Enthusiast;Always+building+something+new" alt="Typing SVG" />
+</p>
+
+---
+
+### 👨‍💻 Über mich
+
+- 🎓 Duales Studium in Embedded Systems bei **RAFI GmbH**
+- 🛠️ Aktuelles Projekt: **Pacman-Clone mit Raylib**
+- 🔧 Skills: `C`, `C++`, `Microcontroller`, `Low-Level Programming`
+- 🔨 Tools: `VS Code`, `Replit`, `Git`
+- 🎯 Ziel: **Professioneller Softwareentwickler im Embedded-Bereich**
+
+---
+
+### 🚀 Technologien & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raylib-000000?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Elias-m-S&show_icons=true&theme=radical" alt="stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elias-m-S&layout=compact&theme=radical" alt="top langs" />
+</p>
+
+---
+
+### 🎮 Aktuelles Projekt
+
+```cpp
+// Pacman-Clone mit Raylib
+while (!WindowShouldClose()) {
+    UpdateGame();
+    DrawGame();
+}
