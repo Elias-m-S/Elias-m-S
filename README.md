@@ -43,8 +43,8 @@
 ### 🎮 Aktuelles Projekt
 
 ```cpp
-// Pacman-Clone mit Raylib
-while (!WindowShouldClose()) {
-    UpdateGame();
-    DrawGame();
+// Autononomous Robot
+while (!knowMap && !knowPosition()) {
+    Localise();
+    Mapping();
 }
