@@ -12,7 +12,6 @@
 - 🎓 Duales Studium in Embedded Systems bei **RAFI GmbH**
 - 🛠️ Aktuelles Projekt: **Autonome Robotik mit ROS2 und Nav2**
 - 🔧 Skills: `C`, `C++`, `Microcontroller`, `Low-Level Programming` , `Robotics`
-- 🔨 Tools: `VS Code`, `Replit`, `Git`
 - 🎯 Ziel: **Professioneller Softwareentwickler im Embedded-Bereich**
 
 ---
