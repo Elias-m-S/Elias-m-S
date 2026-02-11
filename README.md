@@ -10,7 +10,6 @@
 ### 👨‍💻 Über mich
 
 - 🎓 Duales Studium in Embedded Systems bei **RAFI GmbH**
-- 🛠️ Aktuelles Projekt: **Autonome Robotik mit ROS2 und Nav2**
 - 🔧 Skills: `C`, `C++`, `Microcontroller`, `Low-Level Programming` , `Robotics`
 - 🎯 Ziel: **Professioneller Softwareentwickler im Embedded-Bereich**
 
@@ -28,24 +27,3 @@
 </p>
 
 ---
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Elias-m-S&show_icons=true&theme=radical" alt="stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elias-m-S&layout=compact&theme=radical" alt="top langs" />
-</p>
-
----
-
-### 🎮 Aktuelles Projekt
-
-```cpp
-// Autononomous Robot
-while (!knowMap && !knowPosition()) {
-    Localise();
-    Mapping();
-}
