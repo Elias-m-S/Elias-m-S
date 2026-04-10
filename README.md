@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, ich bin Elias Sehmsdorf</h1>
+<h1 align="center">Ich bin Elias Sehmsdorf</h1>
 <h3 align="center">Dualer Student für Embedded Systems bei RAFI GmbH</h3>
 
 <p align="center">
