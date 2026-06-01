@@ -2,7 +2,7 @@
 <h3 align="center">Dualer Student für Embedded Systems bei RAFI GmbH</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Embedded+Systems+%26+Low-Level+Code;C%2FC%2B%2B+Enthusiast;Always+building+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Embedded+Systems+%26+Low-Level+Code;C%2FC%2B%2B+Enthusiast;Always+buil[...]
 </p>
 
 ---
@@ -23,6 +23,7 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/ROS2-004482?style=for-the-badge&logo=ROS&logoColor=white" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
   
 </p>
 
